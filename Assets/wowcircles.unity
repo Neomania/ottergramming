@@ -180,6 +180,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1545356169}
   - 212: {fileID: 1545356168}
+  - 114: {fileID: 1545356170}
   m_Layer: 0
   m_Name: New Sprite
   m_TagString: Untagged
@@ -229,3 +230,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1
+--- !u!114 &1545356170
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1545356167}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d7ade1599ae89943931b3d498825756, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
